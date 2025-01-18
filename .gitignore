@@ -1,0 +1,9 @@
+/venv/
+/tmp_trainer/
+/results/
+/results_bert/
+test.csv
+train.csv
+predictions.csv
+/final_model_bert/
+/final_model/
